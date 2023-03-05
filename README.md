@@ -18,7 +18,7 @@ you can see here https://hotelroyalpalace.orgfree.com/
 
 ## Documentation
 
-[Documentation for php](https://www.php.net/docs.php)
+[Documentation for php](https://www.php.net/docs.php) <br>
 [Documentation for xampp](https://www.apachefriends.org/)
 
 ## Installation
