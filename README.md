@@ -35,6 +35,12 @@ Install php & xampp
 here is a live website 
 
 https://hotelroyalpalace.orgfree.com/
+<br>
+http://127.0.0.1/
+<br>
+Admin panel
+http://127.0.0.1/admin/
+
 ## Features
 
 - book room
