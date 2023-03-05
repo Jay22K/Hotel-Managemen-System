@@ -1,0 +1,6 @@
+admin panel :
+	user: Admin
+	pass: 1234
+
+	sonali
+	12345
